@@ -1,0 +1,6 @@
+config BR2_PACKAGE_KERN_TECHNIK
+    bool "kern technik"
+    help
+      Various examples from the Linux-Magazin´s Kern-Technik series.
+
+      See https://www.linux-magazin.de/ausgaben/2023/11/kern-technik/
